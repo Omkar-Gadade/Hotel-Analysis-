@@ -1,4 +1,4 @@
-# Hotel-Analysis-
+# Hotel-Analysis
 
 ## Project Description:
 
